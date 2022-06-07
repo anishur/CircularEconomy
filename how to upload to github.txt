@@ -1,0 +1,24 @@
+1.  touch .gitignore
+2.  git config --global user.name anishur
+3.  git config --global user.email anis.rahman@gmail.com
+4.  git init
+5.  git add .
+6.  git commit -m "Initial Commit"
+7.  git status
+8.  ssh-keygen -t rsa -b 4096 -C "anis.rahman@gmail.com"
+9.  tail <add the path> or cat <add the path> # copy and paste to Github in my account->Settings->SSH key
+10. git remote add origin <ssh url.git from Git project url copy and paste>
+11. git push origin master
+
+How to Update to Github:
+
+in the same folder:
+1. git status
+2. git add .
+3. git commit -m "added cheatsheet"
+4. git push origin master
+
+
+
+#Ref: Git Tutorial: How to Upload your Projects to Git & GitHub | Web Development Tutorials #100 by Code With Harry
+
