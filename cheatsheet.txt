@@ -2,7 +2,7 @@
 2.  git config --global user.name anishur
 3.  git config --global user.email anis.rahman@gmail.com
 4.  git init
-5.  git add .
+5.  git add.
 6.  git commit -m "Initial Commit"
 7.  git status
 8.  ssh-keygen -t rsa -b 4096 -C "anis.rahman@gmail.com"
@@ -14,7 +14,7 @@ How to Update to Github:
 
 in the same folder:
 1. git status
-2. git add .
+2. git add.
 3. git commit -m "added cheatsheet"
 4. git push origin master
 
